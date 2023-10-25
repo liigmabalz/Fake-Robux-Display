@@ -1,8 +1,8 @@
 ## 1st Step - Download tampermonkey
 http://tampermonkey.net/
 
-## 2st Step - Go on Extensions on your web browser and click "Add new script"
+## 2nd Step - Go on Extensions on your web browser and click "Add new script"
 
 
 
-## 3st Step - Paste and click Save
+## 3rd Step - Paste and click Save
