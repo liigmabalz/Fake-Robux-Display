@@ -1,6 +1,6 @@
 ## 1st Step - Download tampermonkey
 http://tampermonkey.net/
 
-## 2nd Step - Go on Extensions (TemperMonkey or whatever user script manager you use) on your web browser and click "Add new script"
+## 2nd Step - Go on Extensions (TamperMonkey or whatever user script manager you use) on your web browser and click "Add new script"
 
 ## 3rd Step - Paste and click Save
